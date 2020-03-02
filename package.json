@@ -1,0 +1,25 @@
+{
+  "name": "repair-design",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/emir2609/repair-design/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emir2609/repair-design.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emir2609/repair-design/issues"
+  },
+  "homepage": "https://github.com/emir2609/repair-design#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
